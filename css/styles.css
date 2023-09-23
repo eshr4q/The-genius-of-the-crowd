@@ -1,40 +1,4 @@
 
-body {
-  background-color: hsl(76, 55%, 71%)
-}
-h1 {
-  color: rgba(0, 90%, 50%)
-}
-hr {
- 
-  border-color: gray;
-  border-style: dotted none none;
-  border-width: 5px;
-  height: 0%;
-  width: 10%;
-}
-.display1{
-  background-color: aqua;
-  display: inline-block;
-  opacity: 1;
-}
-.display2{
-  background-color: blueviolet;
-  opacity: 0;
-  display: inline
-
-
-  
-
-}
-.display3{
-  background-color: brown;
-  display: none;
-  visibility: hidden;
-}
-
-.display4{
-  background-color: blue;
-  display: inline;
-
+.intro {
+background-color: brown;
 }
