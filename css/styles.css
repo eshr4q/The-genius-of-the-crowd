@@ -1,4 +1,12 @@
 
 .intro {
 background-color: brown;
+
+
+}
+
+.title-image {
+    height: 20%;
+    width: 30%;
+    padding: 3% 5%;
 }
